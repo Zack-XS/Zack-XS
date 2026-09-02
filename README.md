@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, Im Zack a all round developer who does Front end, Back end, and Games.<br>
 
 
