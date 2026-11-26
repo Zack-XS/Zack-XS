@@ -5,10 +5,10 @@ Hi, Im Zack a all round developer who does Front end, Back end, and Games.<br>
 ## HyGuard Discord:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5Q5KePVuCh) 
 
-##AssistX
+## AssistX
 A personal opensource assistant.
 
-##Graphenix
+## Graphenix
 Website hosting and design company based in Canada.
 
 # My Stack:
